@@ -4352,3 +4352,38 @@ Make sure 'TriggerBox_Blueprint_C' has been compiled for  Set Player Ref
 [2021.04.03-01.14.56:665][823]AssetCheck: New page: Asset Save: multiple assets
 [2021.04.03-01.14.56:665][823]LogContentValidation: Display: Validating World /Game/Levels/Home.Home
 [2021.04.03-01.14.56:665][823]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Home_BuiltData.Home_BuiltData
+[2021.04.03-01.15.57:485][768]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2021.04.03-01.15.58:278][861]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox2)
+[2021.04.03-01.15.59:835][ 26]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.04.03-01.16.01:956][ 26]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.04.03-01.16.06:896][528]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Home.Home:PersistentLevel.Home
+[2021.04.03-01.17.07:159][841]LogSlate: Window 'Home' being destroyed
+[2021.04.03-01.17.07:164][841]LogSlate: Window 'Home' being destroyed
+[2021.04.03-01.17.07:188][841]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.04.03-01.17.07:188][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.03-01.17.43:185][ 85]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Dialogue.Dialogue
+[2021.04.03-01.17.43:205][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.04.03-01.17.43:213][ 85]Cmd: MAP LOAD FILE="../../../../../../Users/noahm/Documents/GitHub/UnrealProjects/I-m-Beary-Sorry/ImBearySorryDraft/Content/Levels/Dialogue.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.03-01.17.43:213][ 85]LightingResults: New page: Lighting Build
+[2021.04.03-01.17.43:213][ 85]LoadErrors: New page: Loading map: Dialogue.umap
+[2021.04.03-01.17.43:250][ 85]LogWorld: UWorld::CleanupWorld for Home, bSessionEnded=true, bCleanupResources=true
+[2021.04.03-01.17.43:251][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.03-01.17.43:251][ 85]MapCheck: New page: Map Check
+[2021.04.03-01.17.43:251][ 85]LightingResults: New page: Lighting Build
+[2021.04.03-01.17.43:268][ 85]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020A26D5A0C0), frame # 1401085
+[2021.04.03-01.17.43:268][ 85]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020A321E8A00), frame # 1401085
+[2021.04.03-01.17.43:270][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.04.03-01.17.43:524][ 85]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.03-01.17.43:524][ 85]LogAIModule: Creating AISystem for world Dialogue
+[2021.04.03-01.17.43:524][ 85]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020A57681800), frame # 1401085
+[2021.04.03-01.17.43:524][ 85]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020A842542C0), frame # 1401085
+[2021.04.03-01.17.43:543][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.04.03-01.17.43:569][ 85]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.03-01.17.43:569][ 85]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2021.04.03-01.17.43:569][ 85]LogFileHelpers: Loading map 'Dialogue' took 0.356
+[2021.04.03-01.21.59:306][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.03-01.21.59:351][740]LogSavePackage: Moving '../../../../../../Users/noahm/Documents/GitHub/UnrealProjects/I-m-Beary-Sorry/ImBearySorryDraft/Saved/Dialogue29F668B44C22FD1F4C43DE95AF98BEF1.tmp' to '../../../../../../Users/noahm/Documents/GitHub/UnrealProjects/I-m-Beary-Sorry/ImBearySorryDraft/Content/Levels/Dialogue.umap'
+[2021.04.03-01.21.59:414][740]LogSavePackage: Moving '../../../../../../Users/noahm/Documents/GitHub/UnrealProjects/I-m-Beary-Sorry/ImBearySorryDraft/Saved/Dialogue_BuiltData6192B9824F5D7B7A0B7CB6AFAFDE2D54.tmp' to '../../../../../../Users/noahm/Documents/GitHub/UnrealProjects/I-m-Beary-Sorry/ImBearySorryDraft/Content/Levels/Dialogue_BuiltData.uasset'
+[2021.04.03-01.21.59:429][740]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.03-01.21.59:429][740]LogContentValidation: Display: Validating World /Game/Levels/Dialogue.Dialogue
+[2021.04.03-01.21.59:429][740]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Dialogue_BuiltData.Dialogue_BuiltData
